@@ -1,0 +1,11 @@
+{
+  "name": "sum",
+  "version": "1.0.0",
+  "description": "Given two numbers, return the sum.",
+  "main": "index.js",
+  "author": "inecmc",
+  "license": "MIT",
+  "dependencies": {
+    "alexa-sdk": "^1.0.7"
+  }
+}

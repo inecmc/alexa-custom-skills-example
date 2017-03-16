@@ -1,0 +1,11 @@
+{
+  "name": "lightcontrol",
+  "version": "1.0.0",
+  "description": "Control the light in specified room.",
+  "main": "index.js",
+  "author": "inecmc",
+  "license": "MIT",
+  "dependencies": {
+    "alexa-sdk": "^1.0.7"
+  }
+}

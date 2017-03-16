@@ -1,0 +1,3 @@
+LightControl Turn {option} the light in {place}
+OptionOnlyIntent Turn {option} the light
+PlaceOnlyIntent {place}

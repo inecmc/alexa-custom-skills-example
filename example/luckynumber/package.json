@@ -1,0 +1,11 @@
+{
+  "name": "luckynumber",
+  "version": "1.0.0",
+  "description": "Return a random number.",
+  "main": "index.js",
+  "author": "inecmc",
+  "license": "MIT",
+  "dependencies": {
+    "alexa-sdk": "^1.0.7"
+  }
+}

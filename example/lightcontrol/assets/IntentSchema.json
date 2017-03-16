@@ -1,0 +1,50 @@
+{
+  "intents": [
+    {
+      "intent": "LightControl",
+      "slots": [
+        {
+          "name": "option",
+          "type": "OPTION_TYPE"
+        },
+        {
+          "name": "place",
+          "type": "PLACE_TYPE"
+        }
+      ]
+    },
+    {
+      "intent": "OptionOnlyIntent",
+      "slots": [
+        {
+          "name": "option",
+          "type": "OPTION_TYPE"
+        }
+      ]
+    },
+    {
+      "intent": "PlaceOnlyIntent",
+      "slots": [
+        {
+          "name": "place",
+          "type": "PLACE_TYPE"
+        }
+      ]
+    },
+    {
+      "intent": "AMAZON.YesIntent"
+    },
+    {
+      "intent": "AMAZON.NoIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}

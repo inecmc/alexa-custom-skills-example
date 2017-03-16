@@ -1,0 +1,1 @@
+GetLuckyNumbers A lucky number

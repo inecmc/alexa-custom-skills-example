@@ -1,0 +1,6 @@
+OPTION_TYPE
+  on
+  off
+PLACE_TYPE
+  demo room
+  meeting room
